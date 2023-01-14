@@ -27,7 +27,7 @@ export const Projects = () => {
     },
     {
       title: "Bilpengo",
-      description: "Co-Founder, CTO · Mar 2022 - Dec 2022 · 10 mos",
+      description: "Co-Founder, CTO · Mar 2022 - ∞ · ∞ mos",
       imgUrl: projImg4,
     },
     {
