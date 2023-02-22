@@ -11,6 +11,9 @@ import { Timeline } from "./components/Timeline";
 import { Spotify } from "./components/Spotify";
 import { Calendly } from "./components/Calendly";
 
+import { Analytics } from '@vercel/analytics/react';
+
+
 
 
   
@@ -23,6 +26,7 @@ function App() {
       <Timeline />
       <Projects />
       <Spotify />
+      <Analytics />
       <Contact />
       <Footer />
       
